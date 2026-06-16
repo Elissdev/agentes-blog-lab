@@ -1,0 +1,8 @@
+# Variáveis de ambiente e chaves sensíveis
+.env
+
+# Artefatos gerados pelos agentes (não comitar)
+*.log
+*.pdf
+*.html
+/output/
