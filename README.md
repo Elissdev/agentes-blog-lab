@@ -1,4 +1,4 @@
-# Lab: Arquitetura de Times de Agentes de IA
+# Arquitetura de Times de Agentes de IA
 
 Laboratório prático de estudos focado em **Engenharia de Contexto** e orquestração de Agentes de Inteligência Artificial. O foco deste projeto é mapear teoricamente e estruturar as *Skills* necessárias para criar uma esteira de produção autônoma de artigos para blog.
 
